@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-We hope that FAllParams simplifies the process of fetching source code elements from web applications. If you encounter any issues or have suggestions for improvements, please feel free to open an issue on our [GitHub repository](https://github.com/h3li0p4us3/fallparams). Happy coding!
+We hope that FAllParams simplifies the process of fetching source code elements from web applications. If you encounter any issues or have suggestions for improvements, please feel free to open an issue on our [GitHub repository](https://github.com/The-Tess/fallparams). Happy coding!
